@@ -1,6 +1,7 @@
 # SimpleI2sSpeaker
 
 ## Description  
+NOTE:  this has not yet been tested as of 7/8/2024.  Use at your own risk.
 Play audio from a WAV file using I2S on ESP32-S3 Dev board.  
 
 ![ESP32-S3](https://github.com/Temtel/SimpleI2sSpeaker/blob/main/CircuitDiagram/esp32-s3_max98357a_bb.png)  
