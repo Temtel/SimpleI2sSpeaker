@@ -1,9 +1,9 @@
 # SimpleI2sSpeaker
 
 ## Description  
-Play audio from a WAV file using I2S on Raspberry Pi Pico.  
+Play audio from a WAV file using I2S on ESP32-S3 Dev board.  
 
-![Raspberry Pi Pico](https://github.com/stonedev-app/SimpleI2sSpeaker/blob/main/CircuitDiagram/SimpleI2sSpeaker_breadboard.png)  
+![ESP32-S3](https://github.com/Temtel/SimpleI2sSpeaker/blob/main/CircuitDiagram/esp32-s3_max98357a_bb.png)  
 ## Requirement  
 - Raspberry Pi Pico  
     - MicroPython v1.19.1
@@ -13,11 +13,11 @@ Play audio from a WAV file using I2S on Raspberry Pi Pico.
 ## Usage  
 1. Refer to circuit diagram and wiring.  
 
-    ![circuit diagram](https://github.com/stonedev-app/SimpleI2sSpeaker/blob/main/CircuitDiagram/SimpleI2sSpeaker_circuit.png)  
+    ![circuit diagram](https://github.com/Temtel/SimpleI2sSpeaker/blob/main/CircuitDiagram/esp32-s3_max98357a_bb.png)  
 
-2. Write main.py, lib folder, and sound folder to the Raspberry Pi Pico.  
+2. Write main.py, lib folder, and sound folder to the ESP32-S3.  
 ## Contribution  
-1. Fork this repository  
+1. Fork the original author's repository (see below)
 2. Create your feature branch  
 3. Commit your changes  
 4. Push to the branch  
