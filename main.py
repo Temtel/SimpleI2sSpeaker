@@ -12,9 +12,9 @@ READ_FRAME_NUM = 1024
 I2S_BUFFER_SIZE = 20000
 
 # I2S pin number
-SCK_PIN = 13
-WS_PIN  = SCK_PIN + 1 # SCK_PIN number + 1
-SD_PIN  = 15
+SCK_PIN = 17
+WS_PIN  = 18
+SD_PIN  = 20
 
 # read wave file
 with wave.open(WAV_FILE_PATH, 'rb') as wave_file:
